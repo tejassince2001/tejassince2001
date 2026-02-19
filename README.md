@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Tejas 👋
 
-<!--
-**tejassince2001/tejassince2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Python | APIs | Databases | Learning Go
 
-Here are some ideas to get you started:
+I’m passionate about building reliable backend systems and exploring AI technologies. Currently improving my skills in system design, backend development, and scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Python
+- SQL
+- REST APIs
+- Data Analysis
+- Backend fundamentals
+
+Goals:
+- Build production-ready backend projects
+- Work in USA, UK, Japan, China or other Countries as a software engineer
+- Grow in AI and distributed systems
